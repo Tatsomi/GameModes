@@ -4,5 +4,4 @@ branches:
 - main
 projects:
   GameModes:
-    path: ""
 ...
