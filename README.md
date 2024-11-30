@@ -2,20 +2,20 @@
 Plugin for change your gamemode , This plugin for PocketMine 5.0.0
 
 # Commands
-[gamemode Survival].
+* [gamemode Survival]
 - /gms
-* [gamemode Creative].
+* [gamemode Creative]
 - /gmc
-* [gamemode Spectator].
+* [gamemode Spectator]
 - /gmsp
-* [gamemode Adventure].
+* [gamemode Adventure]
 - /gma
 # permissions
-* [gamemode Survival].
+* [gamemode Survival]
 - gms.cmd
-* [gamemode Creative].
+* [gamemode Creative]
 - gmc.cmd
-* [gamemode Spectator].
+* [gamemode Spectator]
 - gmsp.cmd
-* [gamemode Adventure].
+* [gamemode Adventure]
 - gma.cmd
