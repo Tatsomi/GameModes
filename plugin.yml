@@ -1,6 +1,6 @@
 ---
 name: GameModes
-version: 0.0.1
+version: 0.0.2
 main: Tatsomi\GameModes\Main
 api: 5.0.0
 src-namespace-prefix: Tatsomi\GameModes
@@ -8,16 +8,19 @@ src-namespace-prefix: Tatsomi\GameModes
 commands:
   gms:
     permission: gms.cmd
-    description: Change your gamemode to Survival
+    description: §bChange your gamemode to §3Survival
   gmc:
     permission: gmc.cmd
-    description: Change your gamemode to Creative
+    description: §bChange your gamemode to §3Creative
   gmsp:
     permission: gmsp.cmd
-    description: Change your gamemode to Spectator
+    description: §bChange your gamemode to §3Spectator
   gma:
     permission: gma.cmd
-    description: Change your gamemode to Adventure
+    description: §bChange your gamemode to §3Adventure
+  gmui:
+    permission: gmui.cmd
+    description: §bOpen GameModes §3Menu
 
 permissions:
   gms.cmd:
@@ -27,4 +30,6 @@ permissions:
   gmsp.cmd:
     default: false
   gma.cmd:
+    default: false
+  gmui.cmd:
     default: false

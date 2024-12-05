@@ -1,0 +1,13 @@
+title: "§6[§2G§aameModes§6]"
+content: ""
+button0: "§7|§1S§3urvival§7|"
+button1: "§7|§1C§3reative§7|"
+button2: "§7|§1S§3pectator§7|"
+button3: "§7|§1A§3dventure§7|"
+# gamemode ui
+
+gms.success: "§2Your game mode changed to §e§lS§fURVIVAL"
+gmc.success: "§2Your game mode changed to §e§lC§fREATIVE"
+gmsp.success: "§2Your game mode changed to §e§lS§f§lPECTATOR"
+gma.success: "§2Your game mode changed to §e§lA§fDVENTURE"
+# gamemode change messages
